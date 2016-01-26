@@ -1,0 +1,24 @@
+{
+  "name": "inet_ipv4",
+  "version": "1.0.0",
+  "description": "Provides aton and ntoa functions. Can parse/normalize IPs with less than 4 parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "keywords": [
+    "inet",
+    "ip",
+    "ipv4",
+    "parse",
+    "aton",
+    "ntoa",
+    "normalize"
+  ],
+  "author": "Daniel Lupu <lupu.daniel.f+github@gmail.com>",
+  "license": "MIT"
+}
