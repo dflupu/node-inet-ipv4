@@ -19,6 +19,10 @@
     "ntoa",
     "normalize"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dflupu/inet_ipv4.git"
+  },
   "author": "Daniel Lupu <lupu.daniel.f+github@gmail.com>",
   "license": "MIT"
 }
